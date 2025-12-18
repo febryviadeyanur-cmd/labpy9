@@ -15,8 +15,7 @@
 Tujuan dari praktikum ini adalah untuk memahami dan melatih penggunaan operasi dasar string dalam bahasa pemrograman Python. Melalui praktikum ini, mahasiswa diharapkan mampu mengolah data bertipe teks (string), seperti menghitung jumlah karakter, mengambil karakter tertentu berdasarkan indeks, memodifikasi isi string, serta menampilkan data secara dinamis menggunakan metode format().
 
 Praktikum ini bertujuan agar mahasiswa memahami konsep indexing, slicing, dan manipulasi string, sehingga dapat diterapkan dalam pembuatan program sederhana yang membutuhkan pengolahan teks secara efektif dan terstruktur.
-
-**TUGAS MANDIRI**
+# TUGAS MANDIRI
 
 # Latihan 1
 
