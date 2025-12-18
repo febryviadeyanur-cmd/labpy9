@@ -2,7 +2,7 @@ txt = 'Hello World'
 
 #Hitung jumlah karakter
 Jumlah_karakter = len(txt)
-print (f"Jumlah {Jumlah_karakter} karakter")
+print (f"Jumlah_karakter : {Jumlah_karakter} ")
 
 #Ambil karakter terakhir
 karakter_terakhir = txt[-1]
